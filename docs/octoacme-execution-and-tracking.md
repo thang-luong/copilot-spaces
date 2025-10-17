@@ -22,6 +22,10 @@ Guidance for managing day-to-day execution and tracking progress toward project 
 - End-to-end smoke tests for critical flows before release
 - Security scanning in CI
 - Manual QA for feature acceptance when needed
+- UX review of implemented user flows and interfaces
+- DevOps monitoring and pipeline health checks
+- Documentation updates aligned with feature development
+- Support feedback loop for emerging issues or questions
 
 ## Reporting & Metrics
 - Track velocity and burndown
@@ -38,3 +42,7 @@ Guidance for managing day-to-day execution and tracking progress toward project 
 - [ ] CI configured for tests and lint
 - [ ] Regular demos scheduled
 - [ ] Risk register updated weekly
+- [ ] UX review checkpoints scheduled for user-facing features
+- [ ] DevOps pipeline health monitored and issues escalated
+- [ ] Documentation updated with feature changes
+- [ ] Support feedback captured and triaged regularly
