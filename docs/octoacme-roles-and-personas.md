@@ -203,17 +203,20 @@ Support Leads ensure teams are prepared to handle customer inquiries and inciden
 
 This table shows primary (**P**) and supporting (**S**) role participation across project lifecycle phases:
 
-| Lifecycle Phase | PM | PdM | Dev | UX | DevOps | Writer | Support |
-|-----------------|----|----|-----|-------|--------|--------|---------|
-| Initiation | **P** | **P** | S | S | S | S | S |
-| Planning | **P** | **P** | **P** | S | S | S | S |
-| Execution | **P** | S | **P** | S | S | S | S |
-| Release | **P** | S | S | S | **P** | **P** | **P** |
-| Retrospective | **P** | **P** | **P** | S | S | S | S |
+| Lifecycle Phase | PM | PdM | Dev | UX | DevOps | Writer | Support | QA |
+|-----------------|----|----|-----|-------|--------|--------|---------|-----|
+| Initiation | **P** | **P** | S | S | S | S | S | - |
+| Planning | **P** | **P** | **P** | S | S | S | S | S |
+| Execution | **P** | S | **P** | S | S | S | S | **P** |
+| Release | **P** | S | S | S | **P** | **P** | **P** | S |
+| Retrospective | **P** | **P** | **P** | S | S | S | S | S |
 
 **Legend:**
 - **P** = Primary participant (leads activities or decisions in this phase)
 - **S** = Supporting participant (provides input, reviews, or assists)
+- **-** = Typically not involved
+
+**Note:** QA/Testing is included in the matrix as it is referenced throughout the documentation as a core role, though a full persona definition is not provided in this document.
 
 ---
 
