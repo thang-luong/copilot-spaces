@@ -75,6 +75,113 @@ Project Managers coordinate delivery activities, manage schedules, risks, and co
 
 ---
 
+## QA Engineers / Testers
+
+### Role Summary
+QA Engineers validate that features meet acceptance criteria and quality standards. They design test plans, execute manual and automated tests, and ensure production readiness.
+
+### Responsibilities
+- Create and maintain test plans and test cases
+- Execute manual and automated testing for new features
+- Validate acceptance criteria before release
+- Report and track defects with clear reproduction steps
+- Participate in release readiness reviews
+- Perform regression testing and smoke tests
+
+### Goals
+- Ensure features meet quality standards and acceptance criteria
+- Catch defects early in the development cycle
+- Maintain comprehensive test coverage
+- Enable confident releases to production
+
+### Typical Communication
+- Daily standups to report testing progress and blockers
+- Bug reports and test results in issue tracking
+- Release readiness assessments
+- Collaboration with developers on test automation
+
+---
+
+## Product Lead
+
+### Role Summary
+Product Leads provide strategic direction and oversight for product areas. They coordinate multiple product managers, align product strategy with business goals, and make key prioritization decisions.
+
+### Responsibilities
+- Define product vision and long-term strategy
+- Align multiple product initiatives with business objectives
+- Make final decisions on feature prioritization and trade-offs
+- Review and approve major product changes
+- Interface with executive stakeholders
+- Mentor product managers and ensure consistent practices
+
+### Goals
+- Maximize overall product value and market fit
+- Ensure strategic alignment across product initiatives
+- Enable product managers to execute effectively
+- Drive data-informed product decisions
+
+### Typical Communication
+- Weekly syncs with product managers and engineering leads
+- Monthly strategic reviews with executives
+- Quarterly roadmap planning sessions
+- Cross-functional alignment meetings
+
+---
+
+## Stakeholders
+
+### Role Summary
+Stakeholders are individuals or groups who have interest in or are impacted by project outcomes. They may include sales, support, marketing, legal, security, and business leadership.
+
+### Responsibilities
+- Provide domain expertise and requirements input
+- Review and approve deliverables in their area
+- Communicate impact to their teams
+- Participate in key decision points and reviews
+- Provide feedback on usability and business fit
+
+### Goals
+- Ensure project outcomes meet business and functional needs
+- Minimize disruption to their teams and processes
+- Stay informed of changes that affect their work
+- Provide timely feedback and approvals
+
+### Typical Communication
+- Monthly or milestone-based status updates
+- Targeted communications for decisions requiring input
+- Demo sessions for major features
+- Release announcements and documentation
+
+---
+
+## Project Sponsor
+
+### Role Summary
+Project Sponsors provide executive-level support and authorization for projects. They ensure projects align with organizational strategy, secure necessary resources, and remove organizational blockers.
+
+### Responsibilities
+- Approve project initiation and major scope changes
+- Secure budget and resource commitments
+- Remove organizational and political barriers
+- Make final decisions on escalated issues
+- Champion the project with executive leadership
+- Ensure strategic alignment and business value
+
+### Goals
+- Ensure project delivers expected business value
+- Protect team from organizational disruptions
+- Maintain strategic alignment with company goals
+- Enable project success through executive support
+
+### Typical Communication
+- Monthly executive status reports
+- Escalation point for critical decisions
+- Quarterly strategic alignment reviews
+- Major milestone reviews and approvals
+
+---
+
 ## How these personas are used in the exercise
 - Use these persona definitions to frame scenarios and sample interactions in the Skills Exercise.
 - Each persona can be used as a persona prompt for Copilot Spaces to shape role-specific guidance.
