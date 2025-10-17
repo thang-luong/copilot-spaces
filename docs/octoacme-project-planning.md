@@ -15,6 +15,10 @@ Turn an approved initiative into an actionable plan and backlog for delivery.
 4. Define Definition of Done (DoD)
 5. Identify dependencies and integration points
 6. Create release plan and milestone map
+7. UX research synthesis and design planning (if applicable)
+8. Environment and pipeline readiness review (DevOps)
+9. Documentation plan draft (Technical Writer)
+10. Support readiness outline (Support Lead)
 
 ## Backlog Item Template
 - Title:
@@ -41,3 +45,7 @@ Turn an approved initiative into an actionable plan and backlog for delivery.
 - [ ] Release timeline and milestones agreed
 - [ ] Definition of Done documented
 - [ ] Initial test plan / QA approach drafted
+- [ ] UX research synthesized and design deliverables identified
+- [ ] Environment/pipeline readiness confirmed (DevOps)
+- [ ] Documentation plan and timeline agreed (Technical Writer)
+- [ ] Support enablement plan outlined (Support Lead)

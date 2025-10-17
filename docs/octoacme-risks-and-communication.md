@@ -13,6 +13,15 @@ Maintain a simple table with:
 - Mitigation plan
 - Status
 
+### Common Risk Categories by Role
+- **Technical/Development**: Code complexity, technical debt, integration failures
+- **UX Design**: Insufficient user research, usability issues, accessibility gaps
+- **DevOps**: Infrastructure bottlenecks, pipeline failures, deployment complexity
+- **Documentation**: Documentation debt, outdated content, incomplete coverage
+- **Support**: Support incident readiness, inadequate training, escalation delays
+- **Product**: Scope creep, unclear requirements, dependency delays
+- **Project Management**: Resource constraints, timeline pressure, stakeholder misalignment
+
 ## Risk Lifecycle
 - Identify: during planning and ongoing execution
 - Assess: estimate impact and likelihood
@@ -29,6 +38,7 @@ Weekly Status Template:
 - Progress this week:
 - Next steps:
 - Risks & blockers:
+- Documentation & Support readiness:
 - Ask / decisions needed:
 
 Incident Communication

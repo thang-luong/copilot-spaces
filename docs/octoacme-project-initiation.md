@@ -11,6 +11,7 @@ Whenever a new project idea or feature proposal is ready to be explored.
 - Identify stakeholders & champions
 - Define success criteria and initial timeline
 - Decide go/no-go for planning
+- Identify extended role needs early (UX research, infrastructure/deployment constraints, support impact, documentation scope)
 
 ## Minimum Deliverables
 - Project One-pager (Problem, Goal, Success Metrics)
@@ -32,6 +33,10 @@ Whenever a new project idea or feature proposal is ready to be explored.
 ## Initiation Checklist
 - [ ] One-pager completed and reviewed by Product Lead
 - [ ] Sponsor / Stakeholder alignment (email or meeting)
+- [ ] UX discovery inputs captured (user research needs, design scope)
+- [ ] Deployment/infrastructure constraints noted (DevOps review)
+- [ ] Support impact assessment started (escalation paths, training needs)
+- [ ] Documentation scope outlined (user guides, API docs, release notes)
 - [ ] Decision: Approve to move into planning?
 - [ ] Create repo or project board skeleton
 - [ ] Add initial artifacts to repo (docs/ or .copilot/)

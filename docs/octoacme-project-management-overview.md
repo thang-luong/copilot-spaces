@@ -12,11 +12,16 @@ Applies to all cross-functional projects that deliver product features, services
 - Clear ownership: each project has a named Project Manager (PM) and Product Lead.
 - Data-informed decisions: measure impact and iterate based on evidence.
 - Psychological safety: encourage feedback and learning.
+- Cross-functional collaboration: engage relevant roles (UX, DevOps, Technical Writing, Support) early to ensure quality, reliability, and documentation completeness.
 
 ## Core Roles
 - Project Manager (PM): coordinates delivery, schedules, risk, communications.
 - Product Manager (PdM): defines outcomes, prioritizes backlog, and measures success.
 - Developers: implement features, collaborate on design and testability.
+- UX Designer: conducts user research, designs interfaces, validates usability.
+- DevOps Engineer: manages CI/CD pipelines, infrastructure, and deployment automation.
+- Technical Writer: creates and maintains documentation and knowledge base content.
+- Support Lead: ensures support readiness and bridges product and customer support.
 - QA/Testing: validate quality and acceptance criteria.
 - Stakeholders: provide inputs and approvals.
 
