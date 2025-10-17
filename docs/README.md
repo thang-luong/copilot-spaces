@@ -53,7 +53,7 @@ Changes to process documentation are reviewed via pull requests. Proposed update
 - Update improves clarity or closes a documented gap
 - Proposed content has been reviewed with stakeholders when material changes occur
 
-When making significant updates, please tag relevant stakeholders (e.g., @thang-luong) to ensure awareness and alignment.
+When making significant updates, please tag relevant stakeholders and project leads to ensure awareness and alignment.
 
 ## Continuous Improvement
 
